@@ -82,7 +82,7 @@ div.ad
     margin:5px 10px 5px 5px;
     border-radius:5px;
     background-color:#fff;
-    background-image:url(filters-filler.png);
+    background-image:url(/images/filters-filler.png);
 }
 
 /* Shifting the contents to left if screen size is too small*/
@@ -110,7 +110,7 @@ div.ad
     /*margin-top:-1525px;*/
     float:right;
     border-radius:5px;
-    background-image:url(right-advertisement-filler.png);
+    background-image: url(/images/right-advertisement-filler.png);
 }
 .footer
 {
@@ -412,7 +412,7 @@ ins
 {
     margin:-10px 0 10px 15px;
     float:left;
-    background:url(arrowLeft.png) no-repeat right 7px;
+    background:url(/images/arrowLeft.png) no-repeat right 7px;
 }
 .recentLinkMore a
 {
@@ -424,7 +424,7 @@ ins
 {
     float:left;
     display:block;
-    background:url(borderBottomProduct.png) no-repeat -1px 0px;
+    background:url(/images/borderBottomProduct.png) no-repeat -1px 0px;
     width:280px;
     height:6px;
     text-align:-webkit-match-parent;
