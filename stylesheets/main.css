@@ -430,3 +430,106 @@ ins
     text-align:-webkit-match-parent;
 }
 /* End of Product Item's css */
+.label {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.heading {
+    font-size: 24px;
+}
+
+#loginAll {
+    margin-top: 10px;
+    padding: 20px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#loginButton {
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid #329856;
+    width: 80px;
+    background: linear-gradient(to bottom,#004512 1%,#32d536 3%,#05b916 7%,#007f45 100%);
+}
+.loginForm {
+    float: left;
+    padding-right: 30px;
+    border-right: 1px solid #988827;
+}
+
+#socialForm {
+    float: right;
+}
+
+.information {
+    font-weight: 16px;
+    font-style: italic;
+}
+
+#signupButton {
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid #988827;
+    width: 80px;
+    padding: 10px 20px 10px 20px;
+    background: linear-gradient(to bottom,#988827 7%,#986d0d 100%);
+}
+#signupForm {
+    margin-top: 10px;
+    padding: 20px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#productDisplayWrap {
+    clear: both;
+    margin-top: 10px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-width: 900px;
+}
+
+#productImage {
+    width: 25%;
+    float: left;
+}
+
+#productInfo {
+    width: 75%;
+    float: right;
+}
+
+#productDetailsSection {
+    clear: both;
+}
+
+#productMainImage {
+    margin-top: 15%;
+}
+
+.toggle {
+    display: none;
+}
+
+#moreDetails {
+    cursor:pointer;
+    color: rgba(85, 76, 4, 0.86);
+}
+.sectionHeading {
+    border-bottom: 2px solid #655858;
+}
+
+#buyButton {
+    margin-left: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid #001dff;
+    width: 120px;
+    padding: 5px 10px 5px 10px;
+    background: linear-gradient(to bottom,#196cde 7%,#1f17ea 100%);
+}
