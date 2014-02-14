@@ -1,276 +1,93 @@
-<div id="main_display-wrap">
-						<div id="landing-display" class="page_sections">
-							<div id="book_img-display">
-								<div id="book_image-main"><img id="book_main_image" itemprop="image" onerror="getImage('9780070683617')" src="http://img6a.flixcart.com/img/617/9780070683617.jpg" pagespeed_url_hash="1821344925"></div>
-							</div>
-							<div id="book_info-wrap">
-								<h1 id="book_info-name" itemprop="name">The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition</h1>
-								<div id="book-author">by <a alt="Show more books by Carmine Gallo" title="Show more books by Carmine Gallo" href="http://compare.buyhatke.com/author/Carmine-Gallo-hatke749">Carmine Gallo</a></div>
-								<div id="previewContainer" style="position:absolute;right:10px;margin-top:-30px;">
-								<script src="http://books.google.com/books/previewlib.js"></script>
-								<script>GBS_setLanguage('en');</script>
-																<script>GBS_insertPreviewButtonPopup('ISBN:0070683617');</script><span id="__GBS_Button0"></span>
-								<script>GBS_insertPreviewButtonPopup('ISBN:9780070683617');</script><span id="__GBS_Button1"></span>
-
-								</div>
-								<div id="book_info-wishlist"><a href="javascript:void(0)"><div class="addtoWishlist"></div> Add to Wishlist</a></div>
-								<div id="book_info-rating" itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
-									Rating: <div id="prod_rating"><div id="prod_rating_bg"><div id="prod_rating_fg" style="width: 0%"></div><meta itemprop="ratingValue" content="0"><meta itemprop="bestRating" content="5"></div></div> (<span itemprop="ratingCount">0</span>)<div id="book_info-writeRev"><a href="#custrev_section" onclick="showReview();return false;" class="more-link"> Write a Review</a></div></div>
-								
-								<div style="margin-left:300px;" class="guarantee-pic" id="guar-pic">
-										<a href="http://compare.buyhatke.com/extension.php?utm_source=lowest_price" target="_blank"><img alt="If you get The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at lower price, we will refund you the difference" title="If you get The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at lower price, we will refund you the difference" src="http://compare.buyhatke.com/books_back/images/xguarantee2.png.pagespeed.ic.iDAQZN1gPf.png" pagespeed_url_hash="2127916439"></a>
-									</div>
-
-								<div id="book_info-price" style="margin-top:-45px;">Starts at: <span><img src="http://compare.buyhatke.com/images/xrupee.png.pagespeed.ic.gtc0WVlHMB.png" pagespeed_url_hash="1914928523">300</span> at <div id="book_info-price-store"><img src="http://compare.buyhatke.com/images/xrediffbooks.png.pagespeed.ic.7bf6Hv7kPm.png" pagespeed_url_hash="4184899208"></div> 
-									
-								 <a href="#price_section" class="more-link">View More Prices</a></div>
-
-								<div id="book_info-social">
-								<div class="pinIt shareButtons">
-									<a target="_blank" href="//www.pinterest.com/pin/create/button/?url=http://compare.buyhatke.com/books/The-Presentation-Secrets-of-Steve-Jobs-:-Carmine-Gallo-hatke9780070683617&amp;media=http://img6a.flixcart.com/img/617/9780070683617.jpg&amp;description=The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition" data-pin-do="buttonPin" data-pin-config="above"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" pagespeed_url_hash="454705228"></a></div>
-									<!-- Place this tag where you want the +1 button to render. -->
-									<div id="___plusone_0" style="text-indent: 0px; margin: 0px; padding: 0px; background-color: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 90px; height: 20px; background-position: initial initial; background-repeat: initial initial;"><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 90px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 20px;" tabindex="0" vspace="0" width="100%" id="I0_1392366592773" name="I0_1392366592773" src="https://apis.google.com/_/+1/fastbutton?usegapi=1&amp;bsv=o&amp;size=medium&amp;origin=http%3A%2F%2Fcompare.buyhatke.com&amp;url=http%3A%2F%2Fcompare.buyhatke.com%2Fbooks%2FThe-Presentation-Secrets-of-Steve-Jobs-%3A-Carmine-Gallo-hatke9780070683617&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.oy4wpbOtVnE.O%2Fm%3D__features__%2Fam%3DIQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAItRSTOePRSbsTyHjEy0TDQbGrgpJjajcg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&amp;id=I0_1392366592773&amp;parent=http%3A%2F%2Fcompare.buyhatke.com&amp;pfname=&amp;rpctoken=28995547" data-gapiattached="true" title="+1"></iframe></div>
-
-									<!-- Place this tag after the last +1 button tag. -->
-									<script type="text/javascript">(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/plusone.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();</script>
-									<div id="fb_likes">
-										<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fcompare.buyhatke.com%2Fbooks%2FThe-Presentation-Secrets-of-Steve-Jobs-%3A-Carmine-Gallo-hatke9780070683617&amp;width=160&amp;height=21&amp;colorscheme=light&amp;layout=button_count&amp;action=recommend&amp;show_faces=true&amp;send=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden;width:160px;height:21px;" allowtransparency="true"></iframe>
-								</div>
-								<div id="twitter-share"><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" src="http://platform.twitter.com/widgets/tweet_button.1392079123.html#_=1392366627295&amp;count=horizontal&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=http%3A%2F%2Fcompare.buyhatke.com%2Fbooks%2FThe-Presentation-Secrets-of-Steve-Jobs-%3A-Carmine-Gallo-hatke9780070683617&amp;size=m&amp;text=Buy%20The%20Presentation%20Secrets%20of%20Steve%20Jobs%20%3A%20How%20to%20Be%20Insanely%20Great%20in%20Front%20of%20Any%20Audience%201st%20Edition%20at%20Flipkart%2C%20Snapdeal%2C%20Amazon%2C%20HomeShop18%2C%20Ebay%20at%20best%20price%20in%20India.%20Compare%20The%20Presentation%20Secrets%20of%20Steve%20Jobs%20%3A%20How%20to%20Be%20Insanely%20Great%20in%20Front%20of%20Any%20Audience%201st%20Edition%20price%20in%20India.%209780070683617.%7C%7C%20Buyhatke.com&amp;url=http%3A%2F%2Fcompare.buyhatke.com%2Fbooks%2FThe-Presentation-Secrets-of-Steve-Jobs-%3A-Carmine-Gallo-hatke9780070683617" class="twitter-share-button twitter-tweet-button twitter-count-horizontal" title="Twitter Tweet Button" data-twttr-rendered="true" style="width: 110px; height: 20px;"></iframe>
-								<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-								</div>
-							</div>
-								<div id="book_info-about">
-									<div id="book_info-about-details">
-										<h3>About the book:</h3>
-										<table>
-											<tbody>
-												<tr>
-													<td>Contributors:</td><td><a alt="Show more books by Carmine Gallo" title="Show more books by Carmine Gallo" href="http://compare.buyhatke.com/author/Carmine-Gallo-hatke749">Carmine Gallo</a></td>
-												</tr>
-												<tr>
-													<td>Language:</td><td>English</td>
-												</tr>
-												<tr>
-													<td>Binding:</td><td>Paperback</td>
-												</tr>
-											</tbody>
-										</table>
-										<a href="#details_section" class="more-link">View More Details</a>
-									</div>
-									<div id="book_info-about-overview">
-										<h3>Overview:</h3>
-										<div id="overview-text">
-											The Presentation Secrets of Steve Jobs: How to Be Insanely Great In Front Of Any Audience is a book that attempts to teach its readers the methods involved in putting together an excellent presentatio ....										</div>
-										<a href="#details_section" class="more-link">Read More</a>
-										
-									</div>
-
-								</div>
-							</div>
-						</div><center>
-						<script type="text/javascript">google_ad_client="ca-pub-5313369125618779";google_ad_slot="2486102876";google_ad_width=728;google_ad_height=90;</script></center>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js" style="display: none;"></script>
-
-						<nav>
-							<div id="landing_pnav">
-								<ul id="landing_pnav-menu" style="width: 826px; left: 122px; top: 38px;" class="">
-									<li class="landing_pnav"><a href="#price_section">PRICE</a></li>
-									<li class="landing_pnav"><a href="#details_section">BOOK DETAILS</a></li>
-									<li class="landing_pnav"><a href="#editorial_section">REVIEWS</a></li>
-								</ul>
-							</div>
-						</nav>
-						<div id="google_section" class="google_sections" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-						<meta itemprop="lowPrice" content="300">
-						<meta itemprop="category" content="Books">
-    					<meta itemprop="highPrice" content="435">
-    					<meta itemprop="offerCount" content="12">
-    					<span itemprop="priceCurrency" content="INR"></span>
-    					</div>
-						<div id="price_section" class="page_sections">
-														<h2>The Presentation Secrets of Steve Jobs Price</h2>
-							<div id="sorting" style="display: block;">
-							<form>								
-								Filter by:
-								<label class="checkboxes" for="CODcheck"><input onchange="createResults(100);" type="checkbox" name="COD" id="CODcheck">COD</label>
-								<label class="checkboxes" for="CODcheck2"><input onchange="createResults(100)" type="checkbox" name="COD" id="CODcheck2">EMI</label>
-				            </form> 
-				            <div id="sort-dd" class="sort-dropdown" tabindex="1">
-				            	<span onchange="showResults();return false;">Price + Shipping</span>
-							    <ul class="dropdown">
-							        <li><a href="#">Price</a></li>
-							        <li><a href="#">Price + Shipping</a></li>
-							        <li><a href="#">Seller Rating</a></li>
-							        <li><a href="#">Shipping Time</a></li>
-							    </ul>
-							</div>
-						</div>
-							<div id="price_table">
-								
-									<div id="price_table-headings">
-										<ul class="clearfix">
-											<li class="column1">Store</li>
-											<li class="column2">Price</li>
-											<li class="column3">EMI</li>
-											<li class="column4">COD</li>
-											<li class="column5">Shipping Cost</li>
-											<li class="column6">Shipping Time</li>
-											<li class="column7">Seller Review</li>
-											<li class="column8"></li>
-									
-										</ul>
-									</div>
-									<div id="resultsDiv"><div class="price-list_item" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><ul class="clearfix"><li class="price-store column1"><div class="pitem_store "><img alt="Buy The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at Amazon at Rs. 312" style="margin-top:-40px;" src="http://compare.buyhatke.com/images/xamazon.png.pagespeed.ic.DPgCvrf4Xq.png"></div></li> <li itemprop="price" class="price-orig column2"><img src="http://compare.buyhatke.com/images/rupee.png">312<span itemprop="priceCurrency" content="INR"></span><span itemprop="availability" content="InStock"></span></li> <li class="price-coup column3"></li><li class="price-cod column4">Yes</li> <li class="price-scost column5">FREE</li> <li class="price-stime column6">1-3 days</li> <li class="price-sreview column7"><div title="4.61 stars out of 5 stars" class="seller_rating"><div class="big_rating-bg"><div class="big_rating-fg" style="width:92.17391304347827%"></div></div></div></li> <li class="price-go column8"><a target="_blank" rel="nofollow" itemprop="url" href="http://compare.buyhatke.com/tracking.php?redirect=http%3A%2F%2Fwww.amazon.in%2FThe-Presentation-Secrets-Steve-Jobs%2Fdp%2F0070683611%2F%3Ftag%3Dbuyhatke-21">Buy Now</a></li></ul></div><div class="price-list_item" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><ul class="clearfix"><li class="price-store column1"><div class="pitem_store "><img alt="Buy The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at Rediff at Rs. 300" style="margin-top:-40px;" src="http://compare.buyhatke.com/images/xrediffbooks.png.pagespeed.ic.7bf6Hv7kPm.png"></div></li> <li itemprop="price" class="price-orig column2"><img src="http://compare.buyhatke.com/images/rupee.png">300<span itemprop="priceCurrency" content="INR"></span><span itemprop="availability" content="InStock"></span></li> <li class="price-coup column3"></li><li class="price-cod column4"></li> <li class="price-scost column5"><img src="http://compare.buyhatke.com/images/rupee.png">30</li> <li class="price-stime column6">4 days</li> <li class="price-sreview column7"><div title="3.52 stars out of 5 stars" class="seller_rating"><div class="big_rating-bg"><div class="big_rating-fg" style="width:70.43478260869566%"></div></div></div></li> <li class="price-go column8"><a target="_blank" rel="nofollow" itemprop="url" href="http://compare.buyhatke.com/tracking.php?redirect=http%3A%2F%2Ftrack.in.omgpm.com%2F%3FAID%3D368059%26MID%3D217740%26PID%3D8420%26CID%3D3658416%26WID%3D42127%26r%3Dhttp%253A%252F%252Fbooks.rediff.com%252Fbook%252Fpresentation-secrets-of-steve%252F9780070683617">Buy Now</a></li></ul></div><div class="price-list_item" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><ul class="clearfix"><li class="price-store column1"><div class="pitem_store "><img alt="Buy The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at Snapdeal at Rs. 335" style="margin-top:-40px;" src="http://compare.buyhatke.com/images/xsnapdeal.png.pagespeed.ic.qOOOfn9mtf.jpg"></div></li> <li itemprop="price" class="price-orig column2"><img src="http://compare.buyhatke.com/images/rupee.png">335<span itemprop="priceCurrency" content="INR"></span><span itemprop="availability" content="InStock"></span></li> <li class="price-coup column3"></li><li class="price-cod column4">Yes</li> <li class="price-scost column5">FREE</li> <li class="price-stime column6">7 days</li> <li class="price-sreview column7"><div title="4.09 stars out of 5 stars" class="seller_rating"><div class="big_rating-bg"><div class="big_rating-fg" style="width:81.73913043478261%"></div></div></div></li> <li class="price-go column8"><a target="_blank" rel="nofollow" itemprop="url" href="http://compare.buyhatke.com/tracking.php?redirect=http%3A%2F%2Fjasper.go2cloud.org%2Faff_c%3Foffer_id%3D2%26aff_id%3D3686%26source%3Dbooks_portal%26url%3Dhttp%253A%252F%252Fwww.snapdeal.com%252Fproduct%252Fpresentation-secrets-of-steve%252F504902">Buy Now</a></li></ul></div><div class="price-list_item" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><ul class="clearfix"><li class="price-store column1"><div class="pitem_store "><img alt="Buy The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at HomeShop18 at Rs. 336" style="margin-top:-40px;" src="http://compare.buyhatke.com/images/xhomeshop181.png.pagespeed.ic.EAnhDy7g1b.jpg"></div></li> <li itemprop="price" class="price-orig column2"><img src="http://compare.buyhatke.com/images/rupee.png">336<span itemprop="priceCurrency" content="INR"></span><span itemprop="availability" content="InStock"></span></li> <li class="price-coup column3"></li><li class="price-cod column4">Yes</li> <li class="price-scost column5">FREE</li> <li class="price-stime column6"> 7  days</li> <li class="price-sreview column7"><div title="3.91 stars out of 5 stars" class="seller_rating"><div class="big_rating-bg"><div class="big_rating-fg" style="width:78.26086956521739%"></div></div></div></li> <li class="price-go column8"><a target="_blank" rel="nofollow" itemprop="url" href="http://compare.buyhatke.com/tracking.php?redirect=http%3A%2F%2Ftrack.in.omgpm.com%2F%3FAID%3D368059%26MID%3D331902%26PID%3D9394%26CID%3D3658405%26WID%3D42127%26redirect%3Dhttp%3A%2F%2Fwww.homeshop18.com%2Fpresentation-secrets-steve-1st-edition%2Fauthor%3Acarmine-gallo%2Fisbn%3A9780070683617%2Fbooks%2Fbusiness-economics%2Fproduct%3A19633978%2Fcid%3A13668%2F%3Futm_source%3Daffiliate%26utm_medium%3DOMG%26utm_campaign%3Dtext">Buy Now</a></li></ul></div><div class="price-list_item" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><ul class="clearfix"><li class="price-store column1"><div class="pitem_store "><img alt="Buy The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at Infibeam at Rs. 336" style="margin-top:-40px;" src="http://compare.buyhatke.com/images/xinfibeam2.png.pagespeed.ic.NTklviJr_I.png"></div></li> <li itemprop="price" class="price-orig column2"><img src="http://compare.buyhatke.com/images/rupee.png">336<span itemprop="priceCurrency" content="INR"></span><span itemprop="availability" content="InStock"></span></li> <li class="price-coup column3"></li><li class="price-cod column4">Yes</li> <li class="price-scost column5">FREE</li> <li class="price-stime column6">2-3  days</li> <li class="price-sreview column7"><div title="3.78 stars out of 5 stars" class="seller_rating"><div class="big_rating-bg"><div class="big_rating-fg" style="width:75.65217391304347%"></div></div></div></li> <li class="price-go column8"><a target="_blank" rel="nofollow" itemprop="url" href="http://compare.buyhatke.com/tracking.php?redirect=http%3A%2F%2Fwww.infibeam.com%2FBooks%2Finfo%2Fcarmine-gallo%2Fpresentation-secrets-steve-jobs%2F9780070683617.html%3FtrackId%3Dbuyh">Buy Now</a></li></ul></div><div class="price-list_item" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><ul class="clearfix"><li class="price-store column1"><div class="pitem_store "><img alt="Buy The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at Flipkart at Rs. 312" style="margin-top:-40px;" src="http://compare.buyhatke.com/images/xflipkart1.png.pagespeed.ic.ZlqYUGrju0.jpg"></div></li> <li itemprop="price" class="price-orig column2"><img src="http://compare.buyhatke.com/images/rupee.png">312<span itemprop="priceCurrency" content="INR"></span><span itemprop="availability" content="InStock"></span></li> <li class="price-coup column3"></li><li class="price-cod column4">Yes</li> <li class="price-scost column5"><img src="http://compare.buyhatke.com/images/rupee.png">40</li> <li class="price-stime column6"> 2-3  days</li> <li class="price-sreview column7"><div title="4.52 stars out of 5 stars" class="seller_rating"><div class="big_rating-bg"><div class="big_rating-fg" style="width:90.43478260869566%"></div></div></div></li> <li class="price-go column8"><a target="_blank" rel="nofollow" itemprop="url" href="http://compare.buyhatke.com/tracking.php?redirect=http%3A%2F%2Fwww.flipkart.com%2Fpresentation-secrets-steve-jobs-insanely-great-front-any-audience-1st%2Fp%2Fitmczynwfprjzqdg%3Fpid%3D9780070683617%26sid%3Dsearch.flipkart.com%26ref%3Dd135d487-9451-49c9-a1d5-a2b6ce60bc7f%26otracker%3Dstart%26q%3D9780070683617%26as%3Doff%26as-show%3Doff%26affid%3Dbuyhatkegm">Buy Now</a></li></ul></div><div class="price-list_item" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><ul class="clearfix"><li class="price-store column1"><div class="pitem_store "><img alt="Buy The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at Uread at Rs. 378" style="margin-top:-40px;" src="http://compare.buyhatke.com/images/xuread.png.pagespeed.ic.Vs-h1EUofv.png"></div></li> <li itemprop="price" class="price-orig column2"><img src="http://compare.buyhatke.com/images/rupee.png">378<span itemprop="priceCurrency" content="INR"></span><span itemprop="availability" content="InStock"></span></li> <li class="price-coup column3"></li><li class="price-cod column4">Yes</li> <li class="price-scost column5">FREE</li> <li class="price-stime column6">4-6 days</li> <li class="price-sreview column7"><div title="3.78 stars out of 5 stars" class="seller_rating"><div class="big_rating-bg"><div class="big_rating-fg" style="width:75.65217391304347%"></div></div></div></li> <li class="price-go column8"><a target="_blank" rel="nofollow" itemprop="url" href="http://compare.buyhatke.com/tracking.php?redirect=http%3A%2F%2Fwww.uread.com%2Fbook%2Fpresentation-secrets-steve-jobs-carmine%2F9780070683617%3Faffid%3Dbuyhatke">Buy Now</a></li></ul></div><div class="price-list_item" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><ul class="clearfix"><li class="price-store column1"><div class="pitem_store "><img alt="Buy The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at Bookadda at Rs. 335" style="margin-top:-40px;" src="http://compare.buyhatke.com/images/xbookadda1.png.pagespeed.ic.-WrMaSqW8D.jpg"></div></li> <li itemprop="price" class="price-orig column2"><img src="http://compare.buyhatke.com/images/rupee.png">335<span itemprop="priceCurrency" content="INR"></span><span itemprop="availability" content="InStock"></span></li> <li class="price-coup column3"></li><li class="price-cod column4">Yes</li> <li class="price-scost column5"><img src="http://compare.buyhatke.com/images/rupee.png">60</li> <li class="price-stime column6">1-3 days</li> <li class="price-sreview column7"><div title="3.7 stars out of 5 stars" class="seller_rating"><div class="big_rating-bg"><div class="big_rating-fg" style="width:73.91304347826086%"></div></div></div></li> <li class="price-go column8"><a target="_blank" rel="nofollow" itemprop="url" href="http://compare.buyhatke.com/tracking.php?redirect=http%3A%2F%2Fwww.bookadda.com%2Fbooks%2Fpresentation-secrets-steve-jobs-insanely-carmine-gallo-0070683611-9780070683617%3FaffiliateID%3DBA-4681871B">Buy Now</a></li></ul></div><div class="price-list_item" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><ul class="clearfix"><li class="price-store column1"><div class="pitem_store "><img alt="Buy The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at AcadZone at Rs. 335" style="margin-top:-40px;" src="http://compare.buyhatke.com/images/xacadzone.png.pagespeed.ic.V7a4FAx3bM.png"></div></li> <li itemprop="price" class="price-orig column2"><img src="http://compare.buyhatke.com/images/rupee.png">335<span itemprop="priceCurrency" content="INR"></span><span itemprop="availability" content="InStock"></span></li> <li class="price-coup column3"></li><li class="price-cod column4">Yes</li> <li class="price-scost column5"><img src="http://compare.buyhatke.com/images/rupee.png">60</li> <li class="price-stime column6">1-3  days</li> <li class="price-sreview column7"><div title="3.7 stars out of 5 stars" class="seller_rating"><div class="big_rating-bg"><div class="big_rating-fg" style="width:73.91304347826086%"></div></div></div></li> <li class="price-go column8"><a target="_blank" rel="nofollow" itemprop="url" href="http://compare.buyhatke.com/tracking.php?redirect=http%3A%2F%2Fwww.acadzone.com%2Fbook-details%2Fpresentation-secrets-steve-jobs-insanely-carmine-gallo-0070683611-9780070683617%3FaffiliateID%3DBA-4681871B">Buy Now</a></li></ul></div><div class="price-list_item" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><ul class="clearfix"><li class="price-store column1"><div class="pitem_store "><img alt="Buy The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at IndiaTimes Shopping at Rs. 379" style="margin-top:-40px;" src="http://compare.buyhatke.com/images/xindtimesshopping.png.pagespeed.ic.jvZYVOGs9Z.jpg"></div></li> <li itemprop="price" class="price-orig column2"><img src="http://compare.buyhatke.com/images/rupee.png">379<span itemprop="priceCurrency" content="INR"></span><span itemprop="availability" content="InStock"></span></li> <li class="price-coup column3">Yes</li><li class="price-cod column4"></li> <li class="price-scost column5"><img src="http://compare.buyhatke.com/images/rupee.png">50</li> <li class="price-stime column6">6-9 days</li> <li class="price-sreview column7"><div title="3.3 stars out of 5 stars" class="seller_rating"><div class="big_rating-bg"><div class="big_rating-fg" style="width:66.08695652173913%"></div></div></div></li> <li class="price-go column8"><a target="_blank" rel="nofollow" itemprop="url" href="http://compare.buyhatke.com/tracking.php?redirect=http%3A%2F%2Ftrack.in.omgpm.com%2F%3FAID%3D368059%26MID%3D387804%26PID%3D10091%26CID%3D3705986%26WID%3D42127%26redirect%3Dhttp%3A%2F%2Fshopping.indiatimes.com%2Fbooks%2Fbusiness-communication-presentation%2Fthe-presentation-secrets-of-steve-jobs-how-to-be-insanely-great-in-front-of-any-audience%2FKJP%2Fp_U9780070683617%3Futm_source%3Domg%26utm_medium%3DAffiliate%26utm_campaign%3Dproductname_date">Buy Now</a></li></ul></div><div class="price-list_item" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><ul class="clearfix"><li class="price-store column1"><div class="pitem_store "><img alt="Buy The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at Sapna Online at Rs. 435" style="margin-top:-40px;" src="http://compare.buyhatke.com/images/xsapnaonline.png.pagespeed.ic.G6_M6rKu26.png"></div></li> <li itemprop="price" class="price-orig column2"><img src="http://compare.buyhatke.com/images/rupee.png">435<span itemprop="priceCurrency" content="INR"></span><span itemprop="availability" content="InStock"></span></li> <li class="price-coup column3"></li><li class="price-cod column4">Yes</li> <li class="price-scost column5">FREE</li> <li class="price-stime column6">3-5 days</li> <li class="price-sreview column7"><div title="3.52 stars out of 5 stars" class="seller_rating"><div class="big_rating-bg"><div class="big_rating-fg" style="width:70.43478260869566%"></div></div></div></li> <li class="price-go column8"><a target="_blank" rel="nofollow" itemprop="url" href="http://compare.buyhatke.com/tracking.php?redirect=%2F%2Fsapnaonline.com%2Fpresentation-secrets-of-steve-jobs-346282">Buy Now</a></li></ul></div><div class="price-list_item" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><ul class="clearfix"><li class="price-store column1"><div class="pitem_store "><img alt="Buy The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition at Crossword at Rs. 435" style="margin-top:-40px;" src="http://compare.buyhatke.com/images/xcrossword.png.pagespeed.ic.ybozdSR0iF.jpg"></div></li> <li itemprop="price" class="price-orig column2"><img src="http://compare.buyhatke.com/images/rupee.png">435<span itemprop="priceCurrency" content="INR"></span><span itemprop="availability" content="InStock"></span></li> <li class="price-coup column3"></li><li class="price-cod column4"></li> <li class="price-scost column5"><img src="http://compare.buyhatke.com/images/rupee.png">50</li> <li class="price-stime column6">3 - 5 days</li> <li class="price-sreview column7"><div title="3.7 stars out of 5 stars" class="seller_rating"><div class="big_rating-bg"><div class="big_rating-fg" style="width:73.91304347826086%"></div></div></div></li> <li class="price-go column8"><a target="_blank" rel="nofollow" itemprop="url" href="http://compare.buyhatke.com/tracking.php?redirect=http%3A%2F%2Fwww.crossword.in%2Fbooks%2Fpresentation-secrets-steve-jobs-carmine-gallo%2Fp-books-9780070683617.html">Buy Now</a></li></ul></div></div>
-
-							</div>
-							<div class="price-notes">      
-							<div id="container" style=" min-width: 820px; max-width: 825px; height: 400px; margin: 0 auto" data-highcharts-chart="0"><div class="highcharts-container" id="highcharts-0" style="position: relative; overflow: hidden; width: 825px; height: 400px; text-align: left; line-height: normal; z-index: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif; font-size: 12px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="825" height="400"><desc>Created with Highcharts 3.0.7</desc><defs><clipPath id="highcharts-1"><rect fill="none" x="0" y="0" width="750" height="256"></rect></clipPath></defs><rect rx="5" ry="5" fill="#FFFFFF" x="0" y="0" width="825" height="400"></rect><g class="highcharts-button" style="cursor:default;" title="Chart context menu" stroke-linecap="round" transform="translate(791,10)"><title>Chart context menu</title><rect rx="2" ry="2" fill="white" x="0.5" y="0.5" width="24" height="22" stroke="none" stroke-width="1"></rect><path fill="#E0E0E0" d="M 6 6.5 L 20 6.5 M 6 11.5 L 20 11.5 M 6 16.5 L 20 16.5" stroke="#666" stroke-width="3" zIndex="1"></path><text x="0" y="13" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:12px;color:black;fill:black;" zIndex="1"></text></g><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-grid" zIndex="1"><path fill="none" d="M 65 269.5 L 815 269.5" stroke="#C0C0C0" stroke-width="1" zIndex="1" opacity="1"></path><path fill="none" d="M 65 205.5 L 815 205.5" stroke="#C0C0C0" stroke-width="1" zIndex="1" opacity="1"></path><path fill="none" d="M 65 141.5 L 815 141.5" stroke="#C0C0C0" stroke-width="1" zIndex="1" opacity="1"></path><path fill="none" d="M 65 76.5 L 815 76.5" stroke="#C0C0C0" stroke-width="1" zIndex="1" opacity="1"></path><path fill="none" d="M 65 333.5 L 815 333.5" stroke="#C0C0C0" stroke-width="1" zIndex="1" opacity="1"></path></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 146.5 333 L 146.5 338" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 221.5 333 L 221.5 338" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 295.5 333 L 295.5 338" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 370.5 333 L 370.5 338" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 444.5 333 L 444.5 338" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 519.5 333 L 519.5 338" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 594.5 333 L 594.5 338" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 668.5 333 L 668.5 338" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 743.5 333 L 743.5 338" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 71.5 333 L 71.5 338" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 65 333.5 L 815 333.5" stroke="#C0D0E0" stroke-width="1" zIndex="7" visibility="visible"></path></g><g class="highcharts-axis" zIndex="2"><text x="26" y="205" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:12px;color:#4d759e;font-weight:bold;fill:#4d759e;" zIndex="7" text-anchor="middle" transform="translate(0,0) rotate(270 26 205)" visibility="visible"><tspan x="26">Price (INR)</tspan></text></g><g class="highcharts-series-group" zIndex="3"><g class="highcharts-series" visibility="visible" zIndex="0.1" transform="translate(65,77) scale(1 1)" clip-path="url(#highcharts-1)"><path fill="none" d="M 188.51236146632567 73.6 C 188.51236146632567 73.6 220.48167092924123 73.6 241.79454390451832 73.6 C 275.8951406649616 73.6 292.9454390451833 54.400000000000006 327.0460358056266 54.400000000000006 C 348.3589087809037 54.400000000000006 359.0153452685422 54.400000000000006 380.32821824381926 54.400000000000006 C 444.26683716965056 54.400000000000006 476.23614663256615 54.400000000000006 540.1747655583973 54.400000000000006 C 587.0630861040069 54.400000000000006 610.5072463768116 54.400000000000006 657.3955669224212 54.400000000000006 C 691.4961636828644 54.400000000000006 742.6470588235294 56.31999999999999 742.6470588235294 56.31999999999999" stroke="#2f7ed8" stroke-width="2" zIndex="1" stroke-linejoin="round" stroke-linecap="round"></path><path fill="none" d="M 178.51236146632567 73.6 L 188.51236146632567 73.6 C 188.51236146632567 73.6 220.48167092924123 73.6 241.79454390451832 73.6 C 275.8951406649616 73.6 292.9454390451833 54.400000000000006 327.0460358056266 54.400000000000006 C 348.3589087809037 54.400000000000006 359.0153452685422 54.400000000000006 380.32821824381926 54.400000000000006 C 444.26683716965056 54.400000000000006 476.23614663256615 54.400000000000006 540.1747655583973 54.400000000000006 C 587.0630861040069 54.400000000000006 610.5072463768116 54.400000000000006 657.3955669224212 54.400000000000006 C 691.4961636828644 54.400000000000006 742.6470588235294 56.31999999999999 742.6470588235294 56.31999999999999 L 752.6470588235294 56.31999999999999" stroke-linejoin="round" visibility="visible" stroke-opacity="0.0001" stroke="rgb(192,192,192)" stroke-width="22" zIndex="2" class=" highcharts-tracker" style=""></path></g><g class="highcharts-markers highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(65,77) scale(1 1)" clip-path="none" style=""><path fill="#2f7ed8" d="M 742 52.31999999999999 C 747.328 52.31999999999999 747.328 60.31999999999999 742 60.31999999999999 C 736.672 60.31999999999999 736.672 52.31999999999999 742 52.31999999999999 Z"></path><path fill="#2f7ed8" d="M 657 50.400000000000006 C 662.328 50.400000000000006 662.328 58.400000000000006 657 58.400000000000006 C 651.672 58.400000000000006 651.672 50.400000000000006 657 50.400000000000006 Z"></path><path fill="#2f7ed8" d="M 540 50.400000000000006 C 545.328 50.400000000000006 545.328 58.400000000000006 540 58.400000000000006 C 534.672 58.400000000000006 534.672 50.400000000000006 540 50.400000000000006 Z"></path><path fill="#2f7ed8" d="M 380 50.400000000000006 C 385.328 50.400000000000006 385.328 58.400000000000006 380 58.400000000000006 C 374.672 58.400000000000006 374.672 50.400000000000006 380 50.400000000000006 Z"></path><path fill="#2f7ed8" d="M 327 50.400000000000006 C 332.328 50.400000000000006 332.328 58.400000000000006 327 58.400000000000006 C 321.672 58.400000000000006 321.672 50.400000000000006 327 50.400000000000006 Z"></path><path fill="#2f7ed8" d="M 241 69.6 C 246.328 69.6 246.328 77.6 241 77.6 C 235.672 77.6 235.672 69.6 241 69.6 Z"></path><path fill="#2f7ed8" d="M 188 69.6 C 193.328 69.6 193.328 77.6 188 77.6 C 182.672 77.6 182.672 69.6 188 69.6 Z"></path></g><g class="highcharts-series" visibility="visible" zIndex="0.1" transform="translate(65,77) scale(1 1)" clip-path="url(#highcharts-1)"><path fill="none" d="M 241.79454390451832 56.31999999999999 C 241.79454390451832 56.31999999999999 292.9454390451833 56.31999999999999 327.0460358056266 56.31999999999999 C 348.3589087809037 56.31999999999999 359.0153452685422 56.31999999999999 380.32821824381926 56.31999999999999 C 444.26683716965056 56.31999999999999 476.23614663256615 56.31999999999999 540.1747655583973 56.31999999999999 C 587.0630861040069 56.31999999999999 610.5072463768116 56.31999999999999 657.3955669224212 56.31999999999999 C 691.4961636828644 56.31999999999999 742.6470588235294 56.31999999999999 742.6470588235294 56.31999999999999" stroke="#0d233a" stroke-width="2" zIndex="1" stroke-linejoin="round" stroke-linecap="round"></path><path fill="none" d="M 231.79454390451832 56.31999999999999 L 241.79454390451832 56.31999999999999 C 241.79454390451832 56.31999999999999 292.9454390451833 56.31999999999999 327.0460358056266 56.31999999999999 C 348.3589087809037 56.31999999999999 359.0153452685422 56.31999999999999 380.32821824381926 56.31999999999999 C 444.26683716965056 56.31999999999999 476.23614663256615 56.31999999999999 540.1747655583973 56.31999999999999 C 587.0630861040069 56.31999999999999 610.5072463768116 56.31999999999999 657.3955669224212 56.31999999999999 C 691.4961636828644 56.31999999999999 742.6470588235294 56.31999999999999 742.6470588235294 56.31999999999999 L 752.6470588235294 56.31999999999999" stroke-linejoin="round" visibility="visible" stroke-opacity="0.0001" stroke="rgb(192,192,192)" stroke-width="22" zIndex="2" class=" highcharts-tracker" style=""></path></g><g class="highcharts-markers highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(65,77) scale(1 1)" clip-path="none" style=""><path fill="#0d233a" d="M 742 52.31999999999999 L 746 56.31999999999999 742 60.31999999999999 738 56.31999999999999 Z"></path><path fill="#0d233a" d="M 657 52.31999999999999 L 661 56.31999999999999 657 60.31999999999999 653 56.31999999999999 Z"></path><path fill="#0d233a" d="M 540 52.31999999999999 L 544 56.31999999999999 540 60.31999999999999 536 56.31999999999999 Z"></path><path fill="#0d233a" d="M 380 52.31999999999999 L 384 56.31999999999999 380 60.31999999999999 376 56.31999999999999 Z"></path><path fill="#0d233a" d="M 327 52.31999999999999 L 331 56.31999999999999 327 60.31999999999999 323 56.31999999999999 Z"></path><path fill="#0d233a" d="M 241 52.31999999999999 L 245 56.31999999999999 241 60.31999999999999 237 56.31999999999999 Z"></path></g><g class="highcharts-series" visibility="visible" zIndex="0.1" transform="translate(65,77) scale(1 1)" clip-path="url(#highcharts-1)"><path fill="none" d="M 7.352941176470588 75.52000000000001 C 7.352941176470588 75.52000000000001 116.04859335038364 73.6 188.51236146632567 73.6 C 209.8252344416027 73.6 220.48167092924123 73.6 241.79454390451832 73.6 C 275.8951406649616 73.6 292.9454390451833 64 327.0460358056266 64 C 348.3589087809037 64 359.0153452685422 64 380.32821824381926 64 C 444.26683716965056 64 476.23614663256615 64 540.1747655583973 64 C 587.0630861040069 64 610.5072463768116 64 657.3955669224212 64 C 691.4961636828644 64 742.6470588235294 64 742.6470588235294 64" stroke="#8bbc21" stroke-width="2" zIndex="1" stroke-linejoin="round" stroke-linecap="round"></path><path fill="none" d="M -2.647058823529412 75.52000000000001 L 7.352941176470588 75.52000000000001 C 7.352941176470588 75.52000000000001 116.04859335038364 73.6 188.51236146632567 73.6 C 209.8252344416027 73.6 220.48167092924123 73.6 241.79454390451832 73.6 C 275.8951406649616 73.6 292.9454390451833 64 327.0460358056266 64 C 348.3589087809037 64 359.0153452685422 64 380.32821824381926 64 C 444.26683716965056 64 476.23614663256615 64 540.1747655583973 64 C 587.0630861040069 64 610.5072463768116 64 657.3955669224212 64 C 691.4961636828644 64 742.6470588235294 64 742.6470588235294 64 L 752.6470588235294 64" stroke-linejoin="round" visibility="visible" stroke-opacity="0.0001" stroke="rgb(192,192,192)" stroke-width="22" zIndex="2" class=" highcharts-tracker" style=""></path></g><g class="highcharts-markers highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(65,77) scale(1 1)" clip-path="none" style=""><path fill="#8bbc21" d="M 738 60 L 746 60 746 68 738 68 Z"></path><path fill="#8bbc21" d="M 653 60 L 661 60 661 68 653 68 Z"></path><path fill="#8bbc21" d="M 536 60 L 544 60 544 68 536 68 Z"></path><path fill="#8bbc21" d="M 376 60 L 384 60 384 68 376 68 Z"></path><path fill="#8bbc21" d="M 323 60 L 331 60 331 68 323 68 Z"></path><path fill="#8bbc21" d="M 237 69.6 L 245 69.6 245 77.6 237 77.6 Z"></path><path fill="#8bbc21" d="M 184 69.6 L 192 69.6 192 77.6 184 77.6 Z"></path><path fill="#8bbc21" d="M 3 71.52000000000001 L 11 71.52000000000001 11 79.52000000000001 3 79.52000000000001 Z"></path></g></g><text x="413" y="25" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:16px;color:#274b6d;fill:#274b6d;" text-anchor="middle" class="highcharts-title" zIndex="4"><tspan x="413">Price Trends - Should I buy The Presentation Secrets of Steve Jobs : How to Be Insanely Great in</tspan><tspan dy="16" x="413">Front of Any Audience 1st Edition now ?</tspan></text><text x="413" y="61" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:12px;color:#4d759e;fill:#4d759e;" text-anchor="middle" class="highcharts-subtitle" zIndex="4"><tspan x="413">Price Variance across Flipkart, Amazon and best price at Buyhatke</tspan></text><g class="highcharts-legend" zIndex="7" transform="translate(225,358)"><rect rx="5" ry="5" fill="none" x="0.5" y="0.5" width="375" height="26" stroke="#909090" stroke-width="1" visibility="visible"></rect><g zIndex="1"><g><g class="highcharts-legend-item" zIndex="1" transform="translate(8,3)"><path fill="none" d="M 0 11 L 16 11" stroke="#2f7ed8" stroke-width="2"></path><path fill="#2f7ed8" d="M 8 7 C 13.328 7 13.328 15 8 15 C 2.6719999999999997 15 2.6719999999999997 7 8 7 Z"></path><text x="21" y="15" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:12px;cursor:pointer;color:#274b6d;fill:#274b6d;" text-anchor="start" zIndex="2"><tspan x="21">Amazon Price</tspan></text></g><g class="highcharts-legend-item" zIndex="1" transform="translate(116,3)"><path fill="none" d="M 0 11 L 16 11" stroke="#0d233a" stroke-width="2"></path><path fill="#0d233a" d="M 8 7 L 12 11 8 15 4 11 Z"></path><text x="21" y="15" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:12px;cursor:pointer;color:#274b6d;fill:#274b6d;" text-anchor="start" zIndex="2"><tspan x="21">Flipkart Price</tspan></text></g><g class="highcharts-legend-item" zIndex="1" transform="translate(220,3)"><path fill="none" d="M 0 11 L 16 11" stroke="#8bbc21" stroke-width="2"></path><path fill="#8bbc21" d="M 4 7 L 12 7 12 15 4 15 Z"></path><text x="21" y="15" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:12px;cursor:pointer;color:#274b6d;fill:#274b6d;" text-anchor="start" zIndex="2"><tspan x="21">Best Price at Buyhatke</tspan></text></g></g></g></g><g class="highcharts-axis-labels" zIndex="7"><text x="72.3529411764706" y="347" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="middle" opacity="1"><tspan x="72.3529411764706">25. Nov</tspan></text><text x="146.94799658994032" y="347" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="middle" opacity="1"><tspan x="146.94799658994032">2. Dec</tspan></text><text x="221.54305200341005" y="347" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="middle" opacity="1"><tspan x="221.54305200341005">9. Dec</tspan></text><text x="296.1381074168798" y="347" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="middle" opacity="1"><tspan x="296.1381074168798">16. Dec</tspan></text><text x="370.73316283034956" y="347" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="middle" opacity="1"><tspan x="370.73316283034956">23. Dec</tspan></text><text x="445.32821824381926" y="347" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="middle" opacity="1"><tspan x="445.32821824381926">30. Dec</tspan></text><text x="519.923273657289" y="347" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="middle" opacity="1"><tspan x="519.923273657289">6. Jan</tspan></text><text x="594.5183290707587" y="347" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="middle" opacity="1"><tspan x="594.5183290707587">13. Jan</tspan></text><text x="669.1133844842285" y="347" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="middle" opacity="1"><tspan x="669.1133844842285">20. Jan</tspan></text><text x="743.7084398976982" y="347" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="middle" opacity="1"><tspan x="743.7084398976982">27. Jan</tspan></text></g><g class="highcharts-axis-labels" zIndex="7"><text x="57" y="337.5" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="end" opacity="1"><tspan x="57">0</tspan></text><text x="57" y="273.5" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="end" opacity="1"><tspan x="57">100</tspan></text><text x="57" y="209.5" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="end" opacity="1"><tspan x="57">200</tspan></text><text x="57" y="145.5" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="end" opacity="1"><tspan x="57">300</tspan></text><text x="57" y="81.5" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#666;cursor:default;line-height:14px;fill:#666;" text-anchor="end" opacity="1"><tspan x="57">400</tspan></text></g><g class="highcharts-tooltip" zIndex="8" style="cursor:default;padding:0;white-space:nowrap;" transform="translate(0,-999)"><rect rx="3" ry="3" fill="none" x="0.5" y="0.5" width="16" height="16" fill-opacity="0.85" isShadow="true" stroke="black" stroke-opacity="0.049999999999999996" stroke-width="5" transform="translate(1, 1)"></rect><rect rx="3" ry="3" fill="none" x="0.5" y="0.5" width="16" height="16" fill-opacity="0.85" isShadow="true" stroke="black" stroke-opacity="0.09999999999999999" stroke-width="3" transform="translate(1, 1)"></rect><rect rx="3" ry="3" fill="none" x="0.5" y="0.5" width="16" height="16" fill-opacity="0.85" isShadow="true" stroke="black" stroke-opacity="0.15" stroke-width="1" transform="translate(1, 1)"></rect><rect rx="3" ry="3" fill="rgb(255,255,255)" x="0.5" y="0.5" width="16" height="16" fill-opacity="0.85"></rect><text x="8" y="21" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:12px;color:#333333;fill:#333333;" zIndex="1"></text></g><text x="815" y="395" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif;font-size:9px;cursor:pointer;color:#909090;fill:#909090;" text-anchor="end" zIndex="8"><tspan x="815" style="display: none;">Highcharts.com</tspan></text></svg></div></div>  
-							 <ul>   
-							                                                                  
-							   <li>The best price for <b>The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition</b> in India is Rs. <b><span id="bestPrice">300</span></b> as per February 14, 2014, 1:59 pm</li>
-								
-								<li id="others1">You save <b>45%</b> by purchasing it at Rediff for <b>300</b> over Crossword which sells it for <b>435</b></li>
-							  <li>The prices for The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition is valid in all major cities of India including Bangalore, Delhi, Hyderabad, Chennai, Mumbai, Kolkata and Pune. Please check instructions at the specific stores for any deviation.</li>
-							  <li>All prices mentioned above are in <b>INR</b></li>
-
-							   </ul>
-							   </div>
-
-						</div>
-						<div id="details_section" class="page_sections">
-							<h2>Book Details</h2>
-							<div id="details_overview">
-																<script>GBS_insertEmbeddedViewer('ISBN:9780070683617',825,700);</script><span id="__GBS_Button2"></span>
-							</div>
-
-							<div id="details-in_detail">
-								<h3>Book Details</h3>
-								<table cellspacing="0">
-													<tbody><tr>
-										<td class="heading">Title:</td>
-										<td>The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition</td>
-									</tr>						
-									<tr>
-										<td class="heading">Authored By:</td>
-										<td>Carmine Gallo</td>
-									</tr><tr>
-										<td class="heading">Publisher:</td>
-										<td>Tata McGraw - Hill Education</td>
-									</tr><tr>
-										<td class="heading">Publication Year:</td>
-										<td>2009 November</td>
-									</tr><tr>
-										<td class="heading">ISBN-13:</td>
-										<td>9780070683617</td>
-									</tr><tr>
-										<td class="heading">ISBN-10:</td>
-										<td>0070683611</td>
-									</tr><tr>
-										<td class="heading">Language:</td>
-										<td>English</td>
-									</tr><tr>
-										<td class="heading">Edition:</td>
-										<td>1st</td>
-									</tr><tr>
-										<td class="heading">Binding:</td>
-										<td>Paperback</td>
-									</tr><tr>
-										<td class="heading">Number of Pages:</td>
-										<td>256 Pages</td>
-									</tr>												</tbody></table>
-							</div>
-						</div>
-												<div id="editorial_section" class="page_sections">
-							<h2>Videos Related to The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition </h2>
-														<iframe width="826" height="467" src="//www.youtube.com/embed/Pmaq_xKrYHk" frameborder="0" allowfullscreen=""></iframe>
-						    						</div>
-						<div id="custrev_section" class="page_sections">
-							<h2>Customer Reviews <a class="more-link" href="#" onclick="showReview();return false;">Write a Review</a></h2>
-														<div class="fb-comments fb_iframe_widget" data-href="http://compare.buyhatke.com/books/The-Presentation-Secrets-of-Steve-Jobs-:-Carmine-Gallo-hatke9780070683617" data-colorscheme="light" data-numposts="8" data-width="826" fb-xfbml-state="rendered"><span style="height: 160px; width: 826px;"><iframe id="f1c4e704a4" name="f1a83b1f4" scrolling="no" title="Facebook Social Plugin" class="fb_ltr" style="border: none; overflow: hidden; height: 160px; width: 826px;" src="https://www.facebook.com/plugins/comments.php?api_key=132692593533721&amp;channel_url=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D40%23cb%3Df20f41957c%26domain%3Dcompare.buyhatke.com%26origin%3Dhttp%253A%252F%252Fcompare.buyhatke.com%252Ff34c1021e4%26relation%3Dparent.parent&amp;colorscheme=light&amp;href=http%3A%2F%2Fcompare.buyhatke.com%2Fbooks%2FThe-Presentation-Secrets-of-Steve-Jobs-%3A-Carmine-Gallo-hatke9780070683617&amp;locale=en_US&amp;numposts=8&amp;sdk=joey&amp;skin=light&amp;width=826"></iframe></span></div>
-							<!--<div id="custrev-graph">
-								<div id="custrev-graph_wrap">
-								<ul>
-								<li>5 star <span class="graph_bg"><span style="width: 54.285714285714285%"></span></span>(<span class="graph_count">19</span>)</li>
-						        <li>4 star <span class="graph_bg"><span style="width: 31.428571428571427%"></span></span>(<span class="graph_count">11</span>)</li>
-						        <li>3 star <span class="graph_bg"><span style="width: 8.571428571428571%"></span></span>(<span class="graph_count">3</span>)</li>    
-						        <li>2 star <span class="graph_bg"><span style="width: 0.0%"></span></span>(<span class="graph_count">0</span>)</li>    
-						        <li>1 star <span class="graph_bg"><span style="width: 5.714285714285714%"></span></span>(<span class="graph_count">2</span>)</li></ul>
-								</div>
-								<div id="custrev-tot_rating">Total Rating: <div id="custrev_totrating_bg"><div style="width:60%" id="custrev_totrating_fg"></div></div> <b>3.0/5</b> (123 votes)</div>
-							</div> -->
-						<div id="custrev_wrap">
-						<ul id="custrev_list">
-							<!-- <li><div class="custrev_item_wrap">
-								<h3 class="custrev_subj">Too big for my pocket</h3> - <div class="custrev-rating-each"><div class="small_rating-bg"><div class="small_rating-fg"></div></div></div>
-								<div class="custrev_review_details">By <span>Som Gaai123</span> - <span>On 23-8-2013</span></div>
-								<div class="custrev_left">
-								<p class="custrev_rating_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ornare nisl a ipsum facilisis, quis posuere nulla mattis. Integer viverra arcu massa, ut tempus neque vestibulum non. Aenean sit amet gravida eros. Quisque aliquam mattis tincidunt. Ut sagittis dolor ac consequat molestie. Etiam bibendum nulla sit amet odio mattis, vitae semper sem lobortis. Aliquam leo nibh, sagittis at porttitor vel, semper id ante. Nam odio sapien, posuere in metus non, commodo suscipit nisi. Duis sed lectus feugiat, semper turpis sed, scelerisque tortor. Ut pretium dolor in diam vestibulum suscipit. Morbi facilisis dolor quis mi consequat pulvinar. Mauris egestas nec nibh in placerat. </p>
-								<div class="review_voting">
-									<div class="review_likes"><span>10</span> of <span>11</span> users found this useful</div></div></div>
-									<div class="custrev_right">
-									<div class="review_vote">Was this useful? <br><a href="#" class="vote_buttons vup"><img alt="Vote Up" src="http://compare.buyhatke.com/images/Thumbs-up-icon.png"> Vote Up</a><a class="vote_buttons vdown" href="#"><img alt="Vote Down" src="http://compare.buyhatke.com/images/Thumbs-down-icon.png"> Vote Down</a><br><a href="#" class="custrev_report">Report Abuse</a></div></div>
-							</div></li> -->
-
-							
-
-						</ul>
-						</div>
-
-						</div>
-												<div class="extras">
-							<h2>Best Sellers in this category<div class="view_all"><a href="http://compare.buyhatke.com/discover-books/Best-Sellers-hatke6296">View All Best Sellers &gt;&gt;</a></div></h2>
-								<div class="showcase">
-									<div class="mi-slider showcase-wrap">
-									<ul class="mi-current">
-									<li class="display_item">
-												<div class="display_item-image"><a onclick="trackOutBoundLink('Best Sellers');" href="http://compare.buyhatke.com/books/The-Presentation-Secrets-of-Steve-Jobs-:-Carmine-Gallo-hatke9780070683617"><img src="http://img6a.flixcart.com/img/617/9780070683617.jpg" pagespeed_url_hash="1821344925" style="height: 145px; width: auto; margin-top: -72.5px; top: 50%;"></a>
-													</div>
-													<div class="display_item-details">
-														<h3 class="book_title"><a onclick="trackOutBoundLink('Best Sellers');" href="http://compare.buyhatke.com/books/The-Presentation-Secrets-of-Steve-Jobs-:-Carmine-Gallo-hatke9780070683617">The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition</a></h3>
-														<div class="author">By <a alt="Show more books by Carmine Gallo" title="Show more books by Carmine Gallo" href="http://compare.buyhatke.com/author/Carmine-Gallo-hatke749">Carmine Gallo</a></div>
-														<div class="genre"><a onclick="trackOutBoundLink('Best Sellers');" href="http://compare.buyhatke.com/discover-books/General-hatke3775">General</a></div>
-														<div class="rating">
-															<div class="rating-bg">
-																<div class="rating-fg" style="width:96%">															
-																</div>
-															</div>
-														</div>
-														<div class="price">Starts at: <span><img src="http://compare.buyhatke.com/images/xrupee.png.pagespeed.ic.gtc0WVlHMB.png" pagespeed_url_hash="1914928523">300</span></div>
-														
-														<div class="compare_button"><a onclick="trackOutBoundLink('Best Sellers');" href="http://compare.buyhatke.com/books/The-Presentation-Secrets-of-Steve-Jobs-:-Carmine-Gallo-hatke9780070683617">Compare Prices</a></div>
-													</div>
-											</li>
-
-									</ul>										<nav>
-									        <a href="javascript:void(0);" class="mi-selected">&lt;</a>
-									        <a href="javascript:void(0);">&gt;</a>
-									    </nav>
-									</div>
-								</div>
-						</div> 
-						<div class="extras">
-							<h2>New Releases in this category<div class="view_all"><a href="http://compare.buyhatke.com/discover-books/Just-Arrived-hatke6295">View All New Releases &gt;&gt;</a></div></h2>
-								<div class="showcase">
-									<div class="mi-slider showcase-wrap">
-																			<nav>
-									        <a href="javascript:void(0);">&lt;</a>
-									        <a href="javascript:void(0);">&gt;</a>
-									    </nav>
-									</div>
-								</div>
-						</div> 
-
-						<div class="extras">
-							<h2>Pre-Order books from this category<div class="view_all"><a href="http://compare.buyhatke.com/discover-books/Pre-Order-hatke6294">View All Pre-Order &gt;&gt;</a></div></h2>
-								<div class="showcase">
-									<div class="mi-slider showcase-wrap">
-																			<nav>
-									        <a href="javascript:void(0);">&lt;</a>
-									        <a href="javascript:void(0);">&gt;</a>
-									    </nav>
-									</div>
-								</div>
-						</div> 
-
-					</div>
+        <!-- Start of product section -->
+        <div id="productDisplayWrap">
+            <div id="productMainDisplay">
+                <div id="productImage">
+                    <img id="productMainImage"  src="/images/9780070683617.jpg">
+                </div>
+                <div id="productInfo">
+                    <h1 id="productName" class="heading sectionHeading">The Presentation Secrets of Steve Jobs</h1>
+                    <div id="book-author">by Carmine Gallo</div>
+                    <div id="book_price">Price: 300<button id="buyButton">Buy Now</button></div>
+                    <div id="book_about">
+                        <div id="book_details">
+                            <h3>About the product:</h3>
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td>Contributors:</td>
+                                        <td>Carmine Gallo</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Language:</td>
+                                        <td>English</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Binding:</td>
+                                        <td>Paperback</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <a id="moreDetails">View More Details</a>
+                        </div>      
+                    </div>
+                </div>
+            </div>
+            
+            <!-- The function to display and hide the details-->
+            <script>
+                var toggler = document.getElementById('moreDetails');
+                toggler.onclick = function() {
+                    var section = document.getElementById('productDetailsSection');
+                    if(section.style.display == 'none')
+                    {
+                        section.style.display = 'block';
+                    } else {
+                        section.style.display = 'none';
+                    }
+                };
+            </script>
+            
+            <div id="productDetailsSection" class="toggle pageSection">
+                <hr/><hr/>
+                <h2 class="heading sectionHeading">Book Details</h2>
+                <div id="details-in_detail">
+                    <table cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td class="heading">Title:</td>
+                                <td>The Presentation Secrets of Steve Jobs : How to Be Insanely Great in Front of Any Audience 1st Edition</td>
+                            </tr>						
+                            <tr>
+                                <td class="heading">Authored By:</td>
+                                <td>Carmine Gallo</td>
+                            </tr><tr>
+                                <td class="heading">Publisher:</td>
+                                <td>Tata McGraw - Hill Education</td>
+                            </tr><tr>
+                                <td class="heading">Publication Year:</td>
+                                <td>2009 November</td>
+                            </tr><tr>
+                                <td class="heading">ISBN-13:</td>
+                                <td>9780070683617</td>
+                            </tr><tr>
+                                <td class="heading">ISBN-10:</td>
+                                <td>0070683611</td>
+                            </tr><tr>
+                                <td class="heading">Language:</td>
+                                <td>English</td>
+                            </tr><tr>
+                                <td class="heading">Edition:</td>
+                                <td>1st</td>
+                            </tr><tr>
+                                <td class="heading">Binding:</td>
+                                <td>Paperback</td>
+                            </tr><tr>
+                                <td class="heading">Number of Pages:</td>
+                                <td>256 Pages</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <!-- End of product section -->
