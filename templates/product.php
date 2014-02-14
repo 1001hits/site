@@ -34,18 +34,7 @@
             </div>
             
             <!-- The function to display and hide the details-->
-            <script>
-                var toggler = document.getElementById('moreDetails');
-                toggler.onclick = function() {
-                    var section = document.getElementById('productDetailsSection');
-                    if(section.style.display == 'none')
-                    {
-                        section.style.display = 'block';
-                    } else {
-                        section.style.display = 'none';
-                    }
-                };
-            </script>
+            <script src="/scripts/toggler.js" type="text/javascript"></script>
             
             <div id="productDetailsSection" class="toggle pageSection">
                 <hr/><hr/>
